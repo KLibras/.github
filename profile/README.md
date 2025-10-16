@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Logo KLibras" width="150px" src="./public/logo.svg" style="margin-bottom: 10px;">
+    <img alt="Logo KLibras" width="150px" src="https://raw.githubusercontent.com/KLibras/website/refs/heads/main/public/logo.svg" style="margin-bottom: 10px;">
     <h1>KLibras: A Ponte Digital para um Mundo Inclusivo 💛</h1>
 </div>
 
