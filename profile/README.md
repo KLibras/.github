@@ -49,22 +49,3 @@ Para que o KLibras possa crescer, inovar e impactar milhões de vidas, é essenc
 Este modelo visa a **perpetuação da nossa missão de inclusão** através de uma plataforma robusta e em constante evolução.
 
 ---
-
-### 🧑‍💻 Como Rodar o Projeto Localmente
-
-Siga estes passos simples para configurar e explorar o MVP do KLibras em seu ambiente local:
-
-#### 1. Pré-requisitos
-
-Certifique-se de ter o **Node.js** (versão LTS recomendada) instalado em seu sistema.
-
-#### 2. Configuração Inicial
-
-Abra o terminal na pasta raiz do seu projeto (aquela que contém o arquivo `package.json`).
-
-```bash
-# Navegue até a pasta do projeto (se necessário)
-# cd caminho/para/a/pasta/do_projeto
-
-# Instale todas as dependências do projeto:
-npm install
