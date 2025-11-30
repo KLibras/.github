@@ -1,6 +1,6 @@
 <div align="center">
     <img alt="Logo KLibras" width="150px" src="https://raw.githubusercontent.com/KLibras/website/refs/heads/main/public/logo.svg" style="margin-bottom: 10px;">
-    <h1>KLibras: A Ponte Digital para um Mundo Inclusivo 💛</h1>
+    <h1>KLibras: A Ponte Digital para um Mundo Inclusivo </h1>
 </div>
 
 ## <img src="https://img.icons8.com/material-outlined/30/000000/settings--v1.png" alt="Icone Engrenagem" style="vertical-align: middle; margin-right: 5px;"/> Tecnologias Utilizadas
